@@ -50,4 +50,4 @@ async def ask(ctx, member : discord.Member):
     await ctx.channel.send(f"**{member.mention} İle <@{ctxid}> Arasındaki Aşk Durumu : %{yuzde}**")
 
 
-client.run("MTAwOTcyOTkyNjE5MjE3MzA3Ng.GLQF4G.liXIRhhK8bnuYmRxlWihmMo6xUwM-qvKNNSxTA")
+client.run("TOKEN")
